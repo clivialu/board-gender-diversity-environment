@@ -15,12 +15,3 @@ In this study, we look at whether companies with more women on their boards also
 Instead of simply comparing companies, we first match similar firms and then see how they differ on environmental outcomes.  
 We also use the biographies of directors to learn about their experience and how it may relate to environmental issues.  
 Overall, we find that greater gender diversity on boards is associated with stronger environmental performance, although the strength of this relationship can vary by industry.
-
-### How this repo relates to the paper
-
-- Includes scripts for:
-  - Cleaning and preparing firm- and board-level data  
-  - Running the matching and regression analyses  
-  - Producing key tables and figures from the paper  
-- Where possible, the workflow follows the structure of the article (data preparation → matching → analysis → outputs).  
-- Due to data licensing and confidentiality, raw data are not shared; however, the code illustrates the full analysis pipeline.
