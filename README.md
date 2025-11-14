@@ -8,6 +8,7 @@ This repository contains the analysis and supporting materials for the paper tha
 - **Authors:** Jing Lu, Irene M. Herremans  
 - **Journal:** Business Strategy and the Environment (2019)  
 - **Link:** [https://doi.org/10.1002/bse.2326](https://doi.org/10.1002/bse.2326)
+- **Ranking / Impact:** ABDC A · Impact Factor 13.3
 - **Acknowledgement:** Canadian Foundation for Governance Research; CPA Alberta; SSHRC
 
 ### In Plain Language
